@@ -1,6 +1,6 @@
 # my-first-pr
 
-This is a pratice repository for learning the pull request workflow.
+This is a practice repository for learning the pull request workflow.
 
 ## Steps
 
